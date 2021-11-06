@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rpmajji4learning
+- 👋 Hi, I’m Rajendra (Created this for learning purpose).
 - 👀 I’m interested in developing web applications and API using .net technologies such .NET Core and .NET 5
 - 🌱 I’m currently learning Microsoft Azure and Building .NET Core API with Angular 
 - 💞️ I’m looking to collaborate on learning and developing cloud applications.
